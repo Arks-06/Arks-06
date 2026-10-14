@@ -23,7 +23,7 @@
 ```python
 class Soham:
     role       = "Software Developer | AI Agent & MCP Engineer"
-    location   = "Chennai, India"
+    location   = "India"
     focus      = ["Agentic AI", "Model Context Protocol (MCP)", "LLM applications", "Automation"]
     languages  = ["Python"]
     currently  = "Building multi-agent workflows and tool-integrated AI systems"
