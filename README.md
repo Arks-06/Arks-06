@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:261447,100:b388ff&height=190&section=header&text=Soham&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Agents%20%C2%B7%20MCP%20%C2%B7%20Python%20Backend&descAlignY=60&descSize=18" alt="Soham - AI Agents, MCP, Python Backend" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:261447,100:b388ff&height=190&section=header&text=Soham%20Mukherjee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Agents%20%C2%B7%20MCP%20%C2%B7%20Python%20Backend&descAlignY=60&descSize=18" alt="Soham - AI Agents, MCP, Python Backend" width="100%"/>
 
 <a href="https://github.com/Arks-06">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=b388ff&center=true&vCenter=true&width=640&lines=Building+agentic+AI+systems;Designing+MCP+servers+%26+tool-using+agents;Python+%7C+LLM+Apps+%7C+Automation;Shipping+clean%2C+tested%2C+useful+code" alt="Typing animation: Building agentic AI systems, MCP servers, Python, LLM apps" />
@@ -9,9 +9,10 @@
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=ffd43b)
-![LLM](https://img.shields.io/badge/LLM_Apps-0f2027?style=for-the-badge&logo=openai&logoColor=b388ff)
+![LLM](https://img.shields.io/badge/LLM_Apps-0f2027?style=for-the-badge&logo=probot&logoColor=b388ff)
 ![MCP](https://img.shields.io/badge/MCP-0f2027?style=for-the-badge&logo=anthropic&logoColor=b388ff)
-![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=f05032)![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=f05032)
+![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=2496ed)
 
 </div>
 
